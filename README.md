@@ -1,5 +1,10 @@
 # kulfi
 
+Live Demo Coming Soon.
+
+# Front Page
+<img src="screenshots/kulfi_start_page.png"><br/>
+
 ## Project setup
 ```
 npm install
@@ -9,16 +14,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
