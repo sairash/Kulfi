@@ -3,7 +3,7 @@
 Live Demo Coming Soon.
 
 # Front Page
-<img src="screenshots/kulfi_start_page.png"><br/>
+<img src="screenshots/kulfi_start_page.PNG"><br/>
 
 ## Project setup
 ```
