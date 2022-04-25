@@ -1,4 +1,4 @@
-# <img src="screenshots/kulfi.PNG">kulfi
+# <img src="screenshots/kulfi.PNG"> Kulfi
 
 Live Demo Coming Soon.
 
