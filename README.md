@@ -2,11 +2,13 @@
 
 Live Demo Coming Soon.
 
-# Front Page
+## Front Page
 <img src="screenshots/kulfi_start_page.PNG"><br/>
 
-# All movies Page
+## All movies Page
 <img src="screenshots/kulfi_all_movie.PNG"><br/>
+
+<hr>
 
 ## Project setup
 ```
