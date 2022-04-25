@@ -8,6 +8,9 @@ Live Demo Coming Soon.
 ## All movies Page
 <img src="screenshots/kulfi_all_movie.PNG"><br/>
 
+## All movies Page
+<img src="screenshots/kulfi_all_tv.PNG"><br/>
+
 <hr>
 
 ## Project setup
